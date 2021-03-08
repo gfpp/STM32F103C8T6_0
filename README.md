@@ -1,5 +1,7 @@
 # Placa STM32F103C8T6 (BluePill) con herramientas GNU
 
+[Características principales de la placa y del microcontrolador](BluePill.md)
+
 ## Puesta en marcha
 (De: [A template project for STM32 on Linux](https://blog.gypsyengineer.com/en/diy-electronics/a-template-project-for-stm32f103-on-linux.html))
 
